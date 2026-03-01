@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Joseph Mwangaza</h2>
-<p align="left">A passionate Full-Stack Developer with a love for building modern, scalable, and impactful applications. I enjoy solving real-world problems using technology and continuously expanding my skill set.</p>
+<p align="left">A Full-Stack Developer with a love for building modern, scalable, and impactful applications. I enjoy solving real-world problems using technology and continuously expanding my skill set.</p>
 
 ---
 
